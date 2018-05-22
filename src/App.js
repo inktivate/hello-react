@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-// text goes here i think
-
 class App extends Component {
   render() {
     return (
